@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 setlocal enabledelayedexpansion
 
 REM 📁 작업 디렉터리 (필요시 경로 수정)
